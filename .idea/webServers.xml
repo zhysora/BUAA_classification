@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="85d6b88c-973a-416b-b365-3429e1892251" name="remote25_homework2">
+        <fileTransfer rootFolder="/home/zhouhuanyu/zhy_code/homework2" accessType="SFTP" host="115.236.52.122" port="25" sshConfigId="37fadb63-b43f-4bdb-b2ed-c3ef207eef04" sshConfig="zhouhuanyu@115.236.52.122:25 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
